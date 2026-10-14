@@ -9,11 +9,17 @@ public class AxisBank extends BankInfo {
 		System.out.println("Invest");
 
 	}
+	
+	private void cheque() {
+		System.out.println("Cheque");
+
+	}
 	public static void main(String[] args) {
 		AxisBank A=new AxisBank();
 		A.saving();
 		A.fixed();
 		A.deposit();
 		A.invest();
+		A.cheque();
 	}
 }
