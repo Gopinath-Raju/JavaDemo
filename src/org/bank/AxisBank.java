@@ -11,7 +11,7 @@ public class AxisBank extends BankInfo {
 	}
 	
 	private void cheque() {
-		System.out.println("Cheque");
+		System.out.println("Cheque Book");
 
 	}
 	public static void main(String[] args) {
