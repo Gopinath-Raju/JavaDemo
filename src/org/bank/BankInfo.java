@@ -7,7 +7,6 @@ public class BankInfo {
 	
 	public void fixed() {
 		System.out.println("Fixed");
-	}
-	
+	}	
 
 }
